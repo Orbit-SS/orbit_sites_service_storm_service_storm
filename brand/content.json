@@ -1016,7 +1016,17 @@
     "soc2_badge": "/soc2.webp",
     "appstore": "/appstore.png",
     "google_play": "/google-play.png",
-    "stripe_logo": "/stripe-logo.png"
+    "stripe_logo": "/stripe-logo.png",
+    "carpet_cleaner": "/carpet-cleaner-using-professional-equipment.jpg",
+    "electrician_panel": "/electrician-working-on-electrical-panel-with-tools.jpg",
+    "general_contractor_tablet": "/general-contractor-using-tablet-on-construction-si.jpg",
+    "gutter_cleaning": "/gutter-cleaning-professional-on-ladder-with-tools.jpg",
+    "handyman": "/handyman-fixing-door-with-toolbox.jpg",
+    "house_cleaner": "/house-cleaner-cleaning-kitchen-with-supplies.jpg",
+    "hvac_technician": "/hvac-technician-servicing-air-conditioning-unit.jpg",
+    "lawn_care_pro": "/lawn-care-professional-mowing-residential-yard.jpg",
+    "pest_control_tech": "/pest-control-technician-spraying-exterior-home.jpg",
+    "plumber": "/plumber-fixing-pipes-under-sink-with-wrench.jpg"
   },
   "misc_copy": {
     "lead_capture_audit": {
@@ -1048,5 +1058,451 @@
     "mobile_app": "Service Storm puts powerful tools in your technicians' hands, enabling them to deliver exceptional service even in the most challenging environments.",
     "about": "Service Storm is redefining the field service industry by putting powerful technology within reach of every local business. We believe service pros deserve enterprise-grade tools\u2014without the enterprise-sized price tag.",
     "lifecycle": "Service Storm now handles the entire lifecycle of a dollar in your business. From website and marketing to operations and payments\u2014one platform, one partner."
+  },
+  "pricing": {
+    "section_heading": "Choose Your Plan",
+    "section_subheading": "Custom pricing tailored to your business needs",
+    "section_note": "Contact our sales team to discuss pricing options",
+    "plans": [
+      {
+        "name": "Standard Seats",
+        "description": "Essential field service management tools",
+        "price_current": "$29/user/month",
+        "price_original": "$75/user/month",
+        "discount": "60% off (limited time, until Jan 1 2026)",
+        "popular": false,
+        "cta": "Contact Sales For Standard Pricing",
+        "cta_url": "https://cal.com/servicestorm-support-t3dvhv/30min",
+        "features": [
+          "Smart CRM & Customer Portal",
+          "Visual Scheduling & Drag-and-Drop Dispatching",
+          "One-Click Invoicing & Payment Processing",
+          "Multi-Option \"Good, Better, Best\" Quoting",
+          "End-to-End Job Management",
+          "Advanced Team & Tech Management",
+          "Real-Time GPS Technician Tracking",
+          "Automated Reputation Management & Lead Capture",
+          "Customizable Service & Materials Price Book",
+          "Automated Customer Notifications",
+          "Standard Business Hours Support"
+        ]
+      },
+      {
+        "name": "Premium Seats",
+        "description": "Advanced tools with AI-powered efficiency",
+        "price_current": "$59/user/month",
+        "price_original": "$150/user/month",
+        "discount": "60% off (limited time, until Jan 1 2026)",
+        "popular": true,
+        "cta": "Contact Sales For Premium Pricing",
+        "cta_url": "https://cal.com/servicestorm-support-t3dvhv/30min",
+        "features": [
+          "Includes Everything in Standard Seats",
+          "AI-Powered Assistant for Faster Workflows",
+          "Priority, White-Glove Support",
+          "Dedicated Success Manager",
+          "Early Access to New Features",
+          "Advanced Analytics & Reporting",
+          "Custom Integrations & API Access",
+          "Priority Feature Requests"
+        ]
+      }
+    ],
+    "add_ons": [
+      {
+        "name": "In-Person Onboarding",
+        "description": "Full week of on-site training",
+        "price": "$9,000",
+        "period": "one-time",
+        "benefits": [
+          "Customized training for your entire team",
+          "System configuration to your business workflow",
+          "Data migration and setup assistance",
+          "Process optimization consulting",
+          "90 days of priority post-training support"
+        ]
+      }
+    ],
+    "payment_processing_fees": {
+      "online": "3.5% + $0.30",
+      "in_person": "4% + $0.30",
+      "note": "Standard payment processing fees apply when using integrated payment tools"
+    }
+  },
+  "faq": [
+    {
+      "question": "How much does Service Storm cost?",
+      "answer": "We offer two subscription tiers: Standard Seats at $29/user/month and Premium Seats at $59/user/month. For a limited time, we're offering 60% off (normally $75 and $150) until January 1, 2026. All plans include full access to scheduling, quoting, invoicing, and customer management features."
+    },
+    {
+      "question": "What's the difference between Standard and Premium seats?",
+      "answer": "Standard Seats include all core features like CRM, scheduling, invoicing, quoting, and team management. Premium Seats add AI-powered assistance, white-glove support, dedicated success manager, early access to new features, advanced analytics, custom integrations, and priority feature requests."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Create an account and select your subscription plan. You'll get instant access to the platform including scheduling, quoting, invoicing, and all core features. Setup takes just a few minutes, and our support team is here to help."
+    },
+    {
+      "question": "Are there any additional fees?",
+      "answer": "Your monthly subscription covers full platform access. When you use our integrated payment processing tools, standard payment processing fees apply. Optional add-ons like in-person onboarding ($9,000 one-time) are available but not required."
+    },
+    {
+      "question": "What kind of support do you offer?",
+      "answer": "Standard Seats include support during business hours. Premium Seats get priority white-glove support, a dedicated success manager, and priority feature requests. All customers get access to our support team via email and chat."
+    },
+    {
+      "question": "Can I add my whole team?",
+      "answer": "Yes. You can add as many team members as you need\u2014dispatchers, techs, admins, etc. Each user requires a seat, and all team members must be on the same plan type (either all Standard or all Premium)."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes. You can cancel your subscription at any time with no long-term contracts or cancellation fees. Your access will continue until the end of your current billing period."
+    }
+  ],
+  "platform_features": [
+    {
+      "title": "Streamlined Scheduling",
+      "description": "Master your day with our drag-and-drop dispatch board. Instantly assign jobs, track crews in real-time, and eliminate scheduling conflicts."
+    },
+    {
+      "title": "Field Service Optimization",
+      "description": "Cut down on fuel costs and travel time. Optimize daily routes for your entire crew, visualize job locations on a map, and make smarter dispatch decisions."
+    },
+    {
+      "title": "QuickBooks Integration",
+      "description": "Keep your books perfectly in sync. Our bi-directional QuickBooks integration automates your accounting, eliminating double-entry and saving you hours."
+    },
+    {
+      "title": "Reputation Management",
+      "description": "Grow your business with 5-star reviews. Automatically prompt happy customers to share feedback on Google, turning great service into your best marketing tool."
+    },
+    {
+      "title": "24/7 Customer Support",
+      "description": "Our expert team is always available to help you maximize your service efficiency."
+    },
+    {
+      "title": "Quick Start, Easy Adoption",
+      "description": "Get your team up and running fast with our intuitive, user-friendly interface\u2014no long training sessions, no disruption to your workflow."
+    }
+  ],
+  "spring_marketing": {
+    "title": "Service Storm Spring Marketing Kit",
+    "intro": "Spring brings longer days, better weather\u2014and for many homeowners, extra cash from tax refunds. For contractors, it's the perfect time to ramp up marketing, upsell seasonal services, and book out the busy months ahead.",
+    "subtext": "Learn how smart contractors are using this window of opportunity to land more jobs, offer high-converting promotions, and turn 'spring fever' into a surge of revenue.",
+    "stats": [
+      "68% of Americans view tax refunds as 'found money'",
+      "40% of homeowners plan to use at least a portion of refunds for home improvements",
+      "27% higher average project value during spring vs winter",
+      "32% increase in lead generation",
+      "38% higher booking rate",
+      "41% reduction in seasonal cash flow gaps"
+    ],
+    "promotions": [
+      "10% off any project under $2,000",
+      "15% off all materials",
+      "15% off projects $2,000\u2013$5,000",
+      "65% Bundle & Save offer acceptance",
+      "58% Good/Better/Best increase",
+      "72% Spring Kickoff conversion rate"
+    ],
+    "ai_features": [
+      "Drafts emails, estimates, job descriptions, and customer responses in seconds.",
+      "Instantly reads customer requests and suggests services and materials for faster, more accurate bids.",
+      "Offer to match a percentage of customers' tax refunds when applied to projects (up to a set dollar amount).",
+      "Provide discounts for customers who schedule summer projects during spring.",
+      "Success stories from previous tax season customers"
+    ]
+  },
+  "conversion_stats": {
+    "quote_acceptance_increase": "39%",
+    "payment_time_reduction": "62%",
+    "review_generation_increase": "3x",
+    "spring_booking_increase": "43%",
+    "email_open_rates": {
+      "standard": "39%\u201346%",
+      "examples": [
+        "39% Open Rate",
+        "41% Open Rate",
+        "43% Open Rate",
+        "46% Open Rate"
+      ]
+    },
+    "customer_satisfaction_boost": "up to 82%",
+    "same_day_bookings": "52%",
+    "objection_reversal_rate": "45%"
+  },
+  "ai_features": [
+    "AI-Powered Assistant for Faster Workflows",
+    "AI & Automation",
+    "AI Quoting & Assistance",
+    "Smart Material Categories Generator",
+    "Create an organized inventory system with AI-generated material categories",
+    "AI recommendations should always be reviewed by humans before finalizing. Think of AI as an assistant, not a replacement for your expertise.",
+    "Service Storm: AI for the Trades",
+    "Service Storm takes the best of AI and puts it where it matters\u2014right in your scheduling, quoting, and communication tools.",
+    "Service Storm gives you the power of AI without the learning curve, designed specifically for your industry's unique challenges and opportunities."
+  ],
+  "homepage_sections": {
+    "hero_trust_signals": [
+      "Trusted by contractors across the country",
+      "10 day free trial available",
+      "Works on any device",
+      "No credit card required"
+    ],
+    "hero_stats": [
+      {
+        "value": "30%+",
+        "label": "Higher Quote Acceptance"
+      },
+      {
+        "value": "100%",
+        "label": "Call Coverage"
+      },
+      {
+        "value": "24/7",
+        "label": "Lead Capture"
+      },
+      {
+        "value": "5x",
+        "label": "Faster Payments"
+      }
+    ],
+    "problems_section": {
+      "heading": "The Tools You're Using Are Holding You Back",
+      "problems": [
+        {
+          "title": "Wasted Ad Spend",
+          "desc": "You pay for clicks but can't track which ones become paying customers."
+        },
+        {
+          "title": "Missed Calls = Lost Jobs",
+          "desc": "Every call that goes to voicemail is revenue walking out the door."
+        },
+        {
+          "title": "Slow Payments",
+          "desc": "Disconnected invoicing means you're always chasing money."
+        }
+      ],
+      "replaces_tools": [
+        "Web Developer",
+        "SEO Agency",
+        "Marketing Agency",
+        "Phone System",
+        "Dispatch Software",
+        "Payment Processor",
+        "Review Platform"
+      ]
+    },
+    "one_platform_section": {
+      "heading": "One Login. One Bill. One Partner.",
+      "subheading": "Stop juggling multiple vendors. Get everything you need to grow your service business from a single platform.",
+      "benefits": [
+        "Full funnel ROI tracking",
+        "100% call coverage",
+        "Automated 5-star reviews",
+        "Faster payments"
+      ],
+      "unifiers": [
+        "One Login",
+        "One Bill",
+        "One Partner"
+      ]
+    },
+    "lifecycle_flow": {
+      "badge": "New: The Total Package",
+      "heading": "We Don't Just Manage Jobs. We Fill Them.",
+      "subheading": "Service Storm now handles the entire lifecycle of a dollar in your business. From website and marketing to operations and payments\u2014one platform, one partner.",
+      "stages": [
+        {
+          "title": "The Magnet",
+          "subtitle": "Marketing & Website",
+          "goal": "Feed Jobs Directly Into Your System",
+          "description": "High-converting websites and ad management that feed jobs directly into your system. Full funnel tracking from first click to final invoice.",
+          "features": [
+            "Full Funnel ROI Tracking",
+            "Integrated Lead Capture",
+            "SEO-Optimized Pages"
+          ],
+          "details": [
+            "Custom website design built for conversions",
+            "Google & Facebook ad management with real ROI tracking",
+            "SEO optimization to rank higher in local search",
+            "Landing pages that capture leads 24/7"
+          ],
+          "color": "#3b82f6"
+        },
+        {
+          "title": "The Capture",
+          "subtitle": "AI & Automation",
+          "goal": "Turn Leads into Booked Appointments",
+          "description": "Never miss another call. Our AI answers when you can't, checks availability, and books jobs instantly.",
+          "features": [
+            "24/7 AI Phone System",
+            "Smart Scheduling",
+            "Zero-Friction Booking"
+          ],
+          "details": [
+            "AI-powered phone system answers every call",
+            "Instant booking directly into your calendar",
+            "Automated follow-ups that never forget",
+            "CRM integration for complete lead visibility"
+          ],
+          "color": "#8b5cf6"
+        },
+        {
+          "title": "The Execution",
+          "subtitle": "Operations",
+          "goal": "Turn Appointments into Completed Jobs",
+          "description": "Drag-and-drop dispatching, mobile quoting with Good-Better-Best options, and real-time job tracking.",
+          "features": [
+            "Visual Dispatch Board",
+            "Mobile Quote Builder",
+            "Workflow Automation"
+          ],
+          "details": [
+            "Drag-and-drop scheduling that saves hours",
+            "Mobile app for techs with offline capability",
+            "Good-Better-Best quoting that increases sales",
+            "GPS tracking and automated notifications"
+          ],
+          "color": "#f97316"
+        },
+        {
+          "title": "The Ledger",
+          "subtitle": "Payments & Reputation",
+          "goal": "Turn Jobs into Cash and Growth",
+          "description": "Get paid from the driveway. Automatic invoicing, instant payments, and automated review requests.",
+          "features": [
+            "Instant Text Invoicing",
+            "Tap-to-Pay Collection",
+            "Auto Review Requests"
+          ],
+          "details": [
+            "Send invoices via text in seconds",
+            "Accept payments on-site with tap-to-pay",
+            "Automatic review requests after every job",
+            "Complete financial reporting and analytics"
+          ],
+          "color": "#10b981"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "\u00a9 2025 Service Storm, LLC. All rights reserved.",
+      "nav_sections": {
+        "About": [
+          "Features",
+          "Proven Results",
+          "FAQ",
+          "Articles"
+        ],
+        "Legal": [
+          "Privacy Policy",
+          "Terms of Service"
+        ]
+      },
+      "contact": {
+        "support": "support@servicestorm.io",
+        "general": "contact@servicestorm.io"
+      }
+    }
+  },
+  "blog_articles": [
+    {
+      "title": "Spring Fever & Tax Rebates: A Golden Season for Contractors",
+      "type": "featured",
+      "category": "Marketing"
+    },
+    {
+      "title": "AI is Revolutionizing the Trades: What Contractors Need to Know",
+      "type": "article",
+      "category": "AI & Technology",
+      "subtopics": [
+        "AI is Already on the Job",
+        "Real-World Success Stories",
+        "Popular AI Tools Contractors Are Trying",
+        "Practical Applications for Different Trades",
+        "Where Generic Tools Fall Short",
+        "Common Challenges with Generic AI Tools",
+        "Service Storm: AI for the Trades",
+        "Advanced Features That Set Service Storm Apart",
+        "Getting Started with AI: A Step-by-Step Approach",
+        "Addressing Common Concerns About AI",
+        "Contractors Who Embrace AI Will Lead the Pack",
+        "The Competitive Advantage",
+        "The Future of AI in Contracting",
+        "Get Early Access to Service Storm"
+      ]
+    },
+    {
+      "title": "Smart Scheduling: AI-Powered Dispatch Management",
+      "type": "article",
+      "category": "AI & Technology",
+      "subtopics": [
+        "The Hidden Costs of Poor Scheduling",
+        "How AI is Transforming Dispatch Management",
+        "Core Features of AI-Powered Scheduling",
+        "The Science Behind Smart Scheduling",
+        "Implementing AI Scheduling: Common Challenges and Solutions",
+        "Measuring ROI: Key Performance Indicators",
+        "Service Storm's Approach to Smart Scheduling",
+        "Competitive Advantage from Smart Scheduling",
+        "Getting Started: A 5-Step Implementation Plan",
+        "The Future of AI Dispatch",
+        "Transform Your Dispatch Operations Today"
+      ]
+    },
+    {
+      "title": "Predictive Maintenance with AI",
+      "type": "article",
+      "category": "AI & Technology",
+      "subtopics": [
+        "From Reactive to Predictive: The Evolution of Maintenance",
+        "The Technology Behind Predictive Maintenance",
+        "See Predictive Maintenance in Action",
+        "Benefits Across Different Trades",
+        "The Business Case for Contractors",
+        "The Data Advantage",
+        "Common Implementation Challenges and Solutions",
+        "Competitive Advantage By The Numbers",
+        "Getting Started: A Practical Approach",
+        "Service Storm's Predictive Maintenance Platform",
+        "The Future of Predictive Maintenance",
+        "Transform Your Service Business with Predictive Power"
+      ]
+    },
+    {
+      "title": "The Spring Advantage: Why This Season Matters",
+      "type": "article",
+      "category": "Marketing",
+      "subtopics": [
+        "Effective Spring Promotions That Convert",
+        "Seasonal Services with High Conversion Rates",
+        "Why Many Contractors Miss This Opportunity",
+        "Tax Season Marketing Strategies",
+        "The Smart Contractor's Spring Playbook",
+        "Tools to Supercharge Your Spring Campaigns",
+        "How to Prep Your Business for the Rush",
+        "Addressing Customer Objections During Tax Season",
+        "Turn Spring Clients into Year-Round Revenue",
+        "The Numbers Don't Lie: Spring Season Impact",
+        "Future-Proof Your Spring Strategy",
+        "Get Your Free Spring Marketing Kit"
+      ]
+    }
+  ],
+  "contact_form": {
+    "heading": "Get in Touch",
+    "fields": [
+      "First Name",
+      "Last Name",
+      "Email",
+      "Company Name",
+      "Message"
+    ],
+    "demo_cta": "Book a Demo",
+    "demo_url": "https://cal.com/servicestorm-support-t3dvhv/30min",
+    "lead_audit_cta": "Book a Lead Capture Audit",
+    "audit_note": "0 minutes \u2022 No pressure \u2022 Get a custom game plan"
   }
 }
