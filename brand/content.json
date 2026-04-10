@@ -1026,7 +1026,9 @@
     "hvac_technician": "/hvac-technician-servicing-air-conditioning-unit.jpg",
     "lawn_care_pro": "/lawn-care-professional-mowing-residential-yard.jpg",
     "pest_control_tech": "/pest-control-technician-spraying-exterior-home.jpg",
-    "plumber": "/plumber-fixing-pipes-under-sink-with-wrench.jpg"
+    "plumber": "/plumber-fixing-pipes-under-sink-with-wrench.jpg",
+    "ss_pink_hashed": "/assets/ss_pink-G-2ugJ0_.png",
+    "hvac_tech_unit": "/hvac-technician-servicing-air-conditioning-unit.jpg"
   },
   "misc_copy": {
     "lead_capture_audit": {
@@ -1504,5 +1506,226 @@
     "demo_url": "https://cal.com/servicestorm-support-t3dvhv/30min",
     "lead_audit_cta": "Book a Lead Capture Audit",
     "audit_note": "0 minutes \u2022 No pressure \u2022 Get a custom game plan"
+  },
+  "payment_processors": {
+    "storm_pay": {
+      "name": "Storm Pay",
+      "logo": "/images/stormpay.webp",
+      "logo_white": "/images/stormpay_white.webp",
+      "tagline": "The premium payment solution for established service businesses",
+      "description": "Optimized for established businesses",
+      "card_fee": "3.5% + $0.30",
+      "ach_fee": "1%",
+      "highlight": true,
+      "benefits": [
+        "Built for established businesses with steady volume",
+        "Ideal for maintenance plans & recurring billing",
+        "Advanced reporting and customer management",
+        "Priority support with dedicated account manager"
+      ],
+      "features": [
+        "Volume-based pricing \u2014 rates decrease as your volume increases",
+        "Dedicated account manager for personalized support",
+        "Advanced fraud protection with AI-powered risk assessment",
+        "Next-day deposits for improved cash flow",
+        "Detailed analytics dashboard for transaction insights",
+        "Recurring billing automation with customer management",
+        "Customizable checkout experience with your branding",
+        "Multi-currency support for global transactions"
+      ],
+      "setup": {
+        "application_review_time": "12\u201372 business hours",
+        "note": "Additional time may be needed if more information is required"
+      },
+      "active_copy": [
+        "Your Storm Pay Account is Active",
+        "You're all set up and ready to accept payments through Storm Pay",
+        "Accept credit card payments at competitive rates",
+        "Process ACH transfers at 1% per transaction",
+        "Set up recurring billing for maintenance plans"
+      ]
+    },
+    "stripe": {
+      "name": "Stripe",
+      "logo": "/stripe-logo.png",
+      "tagline": "Basic option for businesses just starting out",
+      "description": "Good for low-volume transactions",
+      "card_fee": "4% + $0.30",
+      "ach_fee": "1.5%",
+      "highlight": false,
+      "benefits": [
+        "Simple setup for new businesses",
+        "Good for low-volume transactions",
+        "Standard reporting features",
+        "Basic customer support"
+      ]
+    }
+  },
+  "legal": {
+    "tos_sections": [
+      {
+        "section": "1. Introduction",
+        "content": "These Terms of Service ('TOS') govern your access to and use of the Service Storm application (the 'Services'). By using the Services, you agree to be bound by these TOS."
+      },
+      {
+        "section": "2. Eligibility",
+        "content": "By using the Services, you affirm that you are at least 18 years of age or the legal age of majority in your jurisdiction, and have the legal capacity to enter into a contract. If you are using the Services on behalf of a business or entity, you represent that you have the authority to bind that business or entity to these TOS."
+      },
+      {
+        "section": "3. Account Registration",
+        "content": "To access certain features of the Services, you must create an account with Service Storm. You agree to provide accurate, complete, and current information during the registration process and to update such information as necessary. You are responsible for maintaining the confidentiality of your account credentials."
+      },
+      {
+        "section": "4. User Responsibilities",
+        "content": "You agree to: Use the Services in compliance with all applicable laws and regulations. Provide accurate, complete, and current information when required. Keep your account and login credentials secure. Not engage in any unauthorized use of the Services. Not use the Services for any unlawful, harmful, or malicious activities."
+      },
+      {
+        "section": "5. Payment Terms",
+        "content": "Certain features of the Services may require payment, including but not limited to lead purchases, subscriptions, or premium features. By making a purchase, you agree to pay the applicable fees for such services, as outlined at the time of purchase. All payments will be processed through a third-party payment processor."
+      },
+      {
+        "section": "6. Privacy and Data Protection",
+        "content": "Your use of the Services is governed by our Privacy Policy, which explains how we collect, use, and protect your personal data. By using the Services, you consent to the collection and use of your data in accordance with our Privacy Policy."
+      },
+      {
+        "section": "7. Termination",
+        "content": "Service Storm reserves the right to suspend or terminate your access to the Services at its sole discretion, without notice, for any reason, including but not limited to a violation of these TOS. You may terminate your account by contacting us at support@servicestorm.com. Termination will result in loss of access to the Services, but any outstanding fees will remain due."
+      },
+      {
+        "section": "8. Disclaimers",
+        "content": "The Services are provided 'as is' and 'as available' without any warranties or representations, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Service Storm does not guarantee that the Services will be error-free, uninterrupted, or secure."
+      },
+      {
+        "section": "9. Limitation of Liability",
+        "content": "To the fullest extent permitted by law, Service Storm, its affiliates, employees, or agents will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use of the Services."
+      },
+      {
+        "section": "10. Indemnification",
+        "content": "You agree to indemnify, defend, and hold harmless Service Storm, its affiliates, officers, employees, and agents from any claims, liabilities, damages, losses, or expenses (including legal fees) arising from your use of the Services or any violation of these TOS."
+      },
+      {
+        "section": "11. SMS Text Messaging",
+        "content": "By creating an account with Service Storm and providing your mobile phone number, you expressly consent to receive SMS text messages from us related to support requests, service updates, and other account-related communications. You may opt out at any time by contacting support@servicestorm.com. Message and data rates may apply."
+      },
+      {
+        "section": "12. Changes to the Terms of Service",
+        "content": "Service Storm reserves the right to update or modify these TOS at any time. We will notify you of material changes by posting the revised TOS on this page and updating the effective date. Your continued use of the Services after such changes will constitute your acceptance of the updated TOS."
+      },
+      {
+        "section": "13. Governing Law and Dispute Resolution",
+        "content": "These TOS shall be governed by and construed in accordance with the laws of the applicable jurisdiction."
+      },
+      {
+        "section": "14. Contact Us",
+        "content": "For questions about these Terms, contact us at support@servicestorm.com or support@servicestorm.io."
+      }
+    ],
+    "privacy_sections": [
+      {
+        "section": "1. Information We Collect",
+        "content": "We collect: Personal Information (name, email address, phone number, billing information), Usage Data (activity within the app), Device Information (IP address, device type), Location Information (GPS data for location-based features), Payment Information (credit card data processed by third-party providers)."
+      },
+      {
+        "section": "2. How We Use Your Information",
+        "content": "To provide and improve the app and its services. To communicate with you, including sending updates and promotional offers. To process payments securely. To monitor app usage and optimize features. To comply with legal requirements and ensure app security."
+      },
+      {
+        "section": "3. Data Sharing and Disclosure",
+        "content": "We may share your information with: Trusted third-party service providers who assist with app operations. To comply with legal obligations and government requests. In the event of a business transfer (e.g., merger or acquisition). Service Storm acts as a data processor for businesses. The business that served you is the data controller and responsible for handling your deletion request."
+      },
+      {
+        "section": "4. Data Retention",
+        "content": "We retain your personal information only as long as necessary to fulfill the purposes described in this policy or as required by law."
+      },
+      {
+        "section": "5. Data Security",
+        "content": "We use industry-standard security measures to protect your personal data from unauthorized access or disclosure. While we make every effort to protect your data, we cannot guarantee its absolute security."
+      },
+      {
+        "section": "6. Your Rights and Choices",
+        "content": "You have the right to: Access and update your personal information at any time. Request deletion of your personal data, subject to legal requirements. Opt-out of marketing communications at any time. Control your location data through your device settings."
+      },
+      {
+        "section": "7. SMS and Communication Privacy",
+        "content": "Your phone number and SMS consent information will not be shared with third parties or affiliates for marketing purposes."
+      },
+      {
+        "section": "8. Children's Privacy",
+        "content": "Our app is not intended for children under the age of 13, and we do not knowingly collect personal data from children."
+      },
+      {
+        "section": "9. International Data Transfers",
+        "content": "Your data may be transferred to and processed in countries outside your jurisdiction. By using the app, you consent to the transfer of your information to the United States."
+      },
+      {
+        "section": "10. Changes to This Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on this page."
+      },
+      {
+        "section": "11. Contact Us",
+        "content": "For privacy questions, contact us at support@servicestorm.io or contact@servicestorm.io."
+      }
+    ]
+  },
+  "platform_features_extended": [
+    {
+      "title": "Manage Crew from Anywhere",
+      "description": "Empower technicians with mobile clock-in/out, and easily track time and overtime to streamline payroll."
+    },
+    {
+      "title": "Route Optimization",
+      "description": "Revolutionize your routing and mapping with precision tools designed to streamline operations, optimize routes, and save time."
+    },
+    {
+      "title": "Get Paid Faster",
+      "description": "Instantly convert jobs to invoices, accept online payments, and let automated reminders chase down overdue payments for you."
+    },
+    {
+      "title": "5-Star Reviews on Autopilot",
+      "description": "Automatically prompt happy customers to share feedback on Google, turning great service into your best marketing tool."
+    },
+    {
+      "title": "AI-Powered Phone System",
+      "description": "Never miss another call. Our AI answers when you can't, checks availability, and books jobs instantly \u2014 24/7."
+    },
+    {
+      "title": "Good-Better-Best Quoting",
+      "description": "Increase quote acceptance by 39% by offering customers multiple options. Let them choose and digitally sign, turning a quote into a job in one click."
+    }
+  ],
+  "integrations": {
+    "accounting": [
+      "QuickBooks (bi-directional sync)"
+    ],
+    "payments": [
+      "Storm Pay",
+      "Stripe"
+    ],
+    "reviews": [
+      "Google Reviews",
+      "Facebook Reviews",
+      "Yelp Reviews"
+    ],
+    "communications": [
+      "Twilio (SMS & phone)",
+      "Google Calendar"
+    ],
+    "maps": [
+      "Google Maps / Places"
+    ],
+    "app_stores": [
+      "Apple App Store",
+      "Google Play Store"
+    ],
+    "analytics": [
+      "Google Analytics"
+    ],
+    "lead_tracking": [
+      "Apollo.io"
+    ],
+    "ai": [
+      "OpenAI (AI assistant)",
+      "Custom AI for quoting & scheduling"
+    ]
   }
 }
