@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "name": "Service Storm",
+    "tagline": "Run Jobs. Get Paid.",
+    "headline": "Run Your Entire Service Business",
+    "headlineHighlight": "From One Platform",
+    "description": "Service Storm is the all-in-one platform built for the trades. Go from lead to quote, schedule to dispatch, and invoice to 5-star review\u2014all with a single, easy-to-use tool.",
+    "ogDescription": "All-in-one platform to manage your service business operations, customer data, scheduling, and more.",
+    "mission": "Service Storm is redefining the field service industry by putting powerful technology within reach of every local business. We believe service pros deserve enterprise-grade tools\u2014without the enterprise-sized price tag.",
+    "brand_promise": "Service Storm now handles the entire lifecycle of a dollar in your business. From website and marketing to operations and payments\u2014one platform, one partner.",
+    "badge": "Built for the Trades",
+    "cta_primary": "Get Started Free",
+    "cta_secondary": "Book a Demo",
+    "cta_note": "No credit card required",
+    "url": "https://servicestorm.io",
+    "signup_url": "https://servicestorm.io/signup",
+    "demo_url": "https://cal.com/servicestorm-support-t3dvhv/30min",
+    "support_email": "support@servicestorm.io",
+    "contact_email": "contact@servicestorm.io",
+    "analytics": {
+      "google_analytics_id": "G-3SPZQ5FRF9"
+    },
+    "social": {
+      "facebook_verification": "izomvfsc3ugc1kk89m3o5qgxtzeuz7"
+    },
+    "keywords": [
+      "free field service software",
+      "free business software",
+      "business management",
+      "service business",
+      "field service",
+      "scheduling",
+      "customer management",
+      "service industry",
+      "business operations"
+    ]
+  },
+  "pages": [
+    {
+      "path": "/",
+      "type": "marketing",
+      "title": "Home"
+    },
+    {
+      "path": "/signup",
+      "type": "auth",
+      "title": "Sign Up"
+    },
+    {
+      "path": "/privacy-policy",
+      "type": "legal",
+      "title": "Privacy Policy"
+    },
+    {
+      "path": "/tos",
+      "type": "legal",
+      "title": "Terms of Service"
+    },
+    {
+      "path": "/landscaping",
+      "type": "industry",
+      "title": "Landscaping Software"
+    },
+    {
+      "path": "/electricians",
+      "type": "industry",
+      "title": "Electrician Software"
+    },
+    {
+      "path": "/plumbing",
+      "type": "industry",
+      "title": "Plumbing Software"
+    },
+    {
+      "path": "/hvac",
+      "type": "industry",
+      "title": "HVAC Software"
+    },
+    {
+      "path": "/general-contractors",
+      "type": "industry",
+      "title": "General Contractor Software"
+    },
+    {
+      "path": "/pest-control",
+      "type": "industry",
+      "title": "Pest Control Software"
+    },
+    {
+      "path": "/home-cleaning",
+      "type": "industry",
+      "title": "Home Cleaning Software"
+    },
+    {
+      "path": "/commercial-cleaning",
+      "type": "industry",
+      "title": "Commercial Cleaning Software"
+    },
+    {
+      "path": "/property-maintenance",
+      "type": "industry",
+      "title": "Property Maintenance Software"
+    },
+    {
+      "path": "/security-systems",
+      "type": "industry",
+      "title": "Security Systems Software"
+    },
+    {
+      "path": "/mobile-auto-repair",
+      "type": "industry",
+      "title": "Mobile Auto Repair Software"
+    },
+    {
+      "path": "/mobile-pet-grooming",
+      "type": "industry",
+      "title": "Mobile Pet Grooming Software"
+    },
+    {
+      "path": "/mobile-auto-detailing",
+      "type": "industry",
+      "title": "Mobile Auto Detailing Software"
+    },
+    {
+      "path": "/qa-section",
+      "type": "content",
+      "title": "Q&A"
+    }
+  ],
+  "industry_carousel": [
+    "Electrical",
+    "Plumbing",
+    "HVAC",
+    "Construction",
+    "Lawn Care",
+    "House Cleaning",
+    "Gutter Cleaning",
+    "Pest Control",
+    "Carpet Cleaning",
+    "Pet Grooming",
+    "Auto Detailing",
+    "Mobile Repair",
+    "Security Systems"
+  ],
+  "hero": {
+    "badge": "Built for the Trades",
+    "headline": "Run Your Entire Service Business",
+    "headlineHighlight": "From One Platform",
+    "description": "Service Storm is the all-in-one platform built for the trades. Go from lead to quote, schedule to dispatch, and invoice to 5-star review\u2014all with a single, easy-to-use tool.",
+    "cta_primary": {
+      "label": "Get Started Free",
+      "url": "/signup"
+    },
+    "cta_secondary": {
+      "label": "Book a Demo",
+      "url": "https://cal.com/servicestorm-support-t3dvhv/30min"
+    },
+    "cta_note": "No credit card required",
+    "video_thumbnail": "/assets/LandingVideoThumbnail-T-5C6EWZ.png",
+    "mobile_app_image": "/service-storm-mobile-app.png",
+    "macbook_image": "/assets/MacBookAirSSDispatch-tZtubAUL.png"
+  },
+  "feature_sections": {
+    "heading": "The All-In-One Toolkit",
+    "headingHighlight": "to Grow Your Business",
+    "subtitle": "Everything you need to run a professional service business, organized exactly how you work.",
+    "tabs": {
+      "win-jobs": {
+        "title": "Win More Jobs, Faster",
+        "description": "Stop letting new leads and complex quotes slow you down. Service Storm gives you the tools to respond instantly and professionally.",
+        "shortTitle": "Win Jobs",
+        "color": "bg-primary",
+        "features": [
+          {
+            "title": "Instant Lead Capture",
+            "content": "Embed a lead form on your website that feeds directly into Service Storm, so you never miss an opportunity."
+          },
+          {
+            "title": "Professional Quotes in Minutes",
+            "content": "Use your pre-built Price Book with services and materials to generate accurate quotes on the spot."
+          },
+          {
+            "title": "'Good, Better, Best' Options",
+            "content": "Increase quote acceptance by 39% by offering customers multiple options. Let them choose and digitally sign, turning a quote into a job in one click."
+          }
+        ]
+      },
+      "operations": {
+        "title": "Master Your Operations",
+        "description": "Chaos in the office and field costs you time and money. Take control with intelligent scheduling and team management.",
+        "shortTitle": "Operations",
+        "color": "bg-green-500",
+        "features": [
+          {
+            "title": "Drag-and-Drop Dispatching",
+            "content": "Visualize your whole day, week, or month. Easily assign jobs and adjust schedules on the fly."
+          },
+          {
+            "title": "Smart Technician Assignment",
+            "content": "Assign jobs based on category, skills, and qualifications. Ensure the right tech is sent to the right job, every time."
+          },
+          {
+            "title": "Mobile App for Your Crew",
+            "content": "Technicians can clock in, view job details, create invoices, and capture photos\u2014all from their phone, even when offline."
+          }
+        ]
+      },
+      "payments": {
+        "title": "Get Paid on Time",
+        "description": "Stop chasing payments. Make it easy for customers to pay you the moment the job is done.",
+        "shortTitle": "Payments",
+        "color": "bg-emerald-500",
+        "features": [
+          {
+            "title": "Instant Invoicing",
+            "content": "Generate and send professional invoices via text or email right from the job site."
+          },
+          {
+            "title": "Online & In-Person Payments",
+            "content": "Accept credit cards online or use Tap to Pay on your phone. Choose your processor (Storm Pay or Stripe) and even give customers the option to cover processing fees."
+          },
+          {
+            "title": "Automated Reminders",
+            "content": "Let the system follow up on overdue invoices for you, reducing payment times by up to 62%."
+          }
+        ]
+      },
+      "reputation": {
+        "title": "Build a 5-Star Reputation",
+        "description": "Turn your hard work into your best marketing tool.",
+        "shortTitle": "Reputation",
+        "color": "bg-yellow-500",
+        "features": [
+          {
+            "title": "Automated Review Requests",
+            "content": "Automatically text satisfied customers a link to leave a review on Google, Facebook, or Yelp."
+          },
+          {
+            "title": "Manage Reviews in One Place",
+            "content": "See all your reviews as they come in and easily respond, helping you generate 3x more positive reviews."
+          },
+          {
+            "title": "Build Customer Trust",
+            "content": "Real-time GPS tracking and automated notifications keep customers informed and confident throughout the service."
+          }
+        ]
+      }
+    }
+  },
+  "industry_pages": {
+    "landscaping": {
+      "slug": "landscaping",
+      "name": "Landscaping",
+      "displayName": "Landscapers",
+      "heroTitle": "Grow your landscaping business",
+      "heroSubtitle": "The all-in-one platform built specifically for landscapers that streamlines scheduling, crew management, material tracking, proposals, and customer communication.",
+      "heroBadge": "Built for Landscapers"
+    },
+    "electricians": {
+      "slug": "electricians",
+      "name": "Electrical",
+      "displayName": "Electricians",
+      "heroTitle": "Power up your electrical business",
+      "heroSubtitle": "The complete electrical contractor management platform that handles scheduling, dispatching, quotes, invoicing, and customer communications in one powerful system.",
+      "heroBadge": "Built for Electricians"
+    },
+    "plumbing": {
+      "slug": "plumbing",
+      "name": "Plumbing",
+      "displayName": "Plumbers",
+      "heroTitle": "Flow smoother with plumbing software",
+      "heroSubtitle": "Complete plumbing business management software that streamlines scheduling, dispatching, estimates, invoicing, and customer service for plumbing contractors.",
+      "heroBadge": "Built for Plumbers"
+    },
+    "hvac": {
+      "slug": "hvac",
+      "name": "HVAC",
+      "displayName": "HVAC Contractors",
+      "heroTitle": "Keep your HVAC business running smoothly",
+      "heroSubtitle": "All-in-one HVAC business software for scheduling, dispatching, maintenance contracts, estimates, and customer management.",
+      "heroBadge": "Built for HVAC Contractors"
+    },
+    "general-contractors": {
+      "slug": "general-contractors",
+      "name": "General Contractors",
+      "displayName": "General Contractors",
+      "heroTitle": "Build your business on solid foundations",
+      "heroSubtitle": "Complete construction management software for general contractors. Manage projects, subcontractors, schedules, estimates, and client communications.",
+      "heroBadge": "Built for General Contractors"
+    },
+    "pest-control": {
+      "slug": "pest-control",
+      "name": "Pest Control",
+      "displayName": "Pest Control Companies",
+      "heroTitle": "Eliminate inefficiency in your pest control business",
+      "heroSubtitle": "Complete pest control software for scheduling routes, managing treatments, tracking chemicals, and automating recurring services.",
+      "heroBadge": "Built for Pest Control"
+    },
+    "home-cleaning": {
+      "slug": "home-cleaning",
+      "name": "Home Cleaning",
+      "displayName": "Home Cleaning Services",
+      "heroTitle": "Clean up your cleaning business operations",
+      "heroSubtitle": "All-in-one software for home cleaning services. Manage scheduling, staff, customer preferences, and recurring cleanings effortlessly.",
+      "heroBadge": "Built for Home Cleaning Services"
+    },
+    "commercial-cleaning": {
+      "slug": "commercial-cleaning",
+      "name": "Commercial Cleaning",
+      "displayName": "Commercial Cleaning Companies",
+      "heroTitle": "Professional software for commercial cleaning",
+      "heroSubtitle": "Manage large facilities, multiple shifts, quality control, and client contracts with software built for commercial cleaning operations.",
+      "heroBadge": "Built for Commercial Cleaning"
+    },
+    "property-maintenance": {
+      "slug": "property-maintenance",
+      "name": "Property Maintenance",
+      "displayName": "Property Maintenance Companies",
+      "heroTitle": "Maintain more properties efficiently",
+      "heroSubtitle": "Complete property maintenance software for managing residential and commercial properties, work orders, preventive maintenance, and tenant requests.",
+      "heroBadge": "Built for Property Maintenance"
+    },
+    "security-systems": {
+      "slug": "security-systems",
+      "name": "Security Systems",
+      "displayName": "Security System Companies",
+      "heroTitle": "Secure more business with better software",
+      "heroSubtitle": "Complete security system business software for installations, monitoring contracts, service calls, and customer management.",
+      "heroBadge": "Built for Security Companies"
+    },
+    "mobile-auto-repair": {
+      "slug": "mobile-auto-repair",
+      "name": "Mobile Auto Repair",
+      "displayName": "Mobile Auto Repair Services",
+      "heroTitle": "Take your auto repair business on the road",
+      "heroSubtitle": "Mobile mechanic software for scheduling on-site repairs, managing mobile service vehicles, parts inventory, and customer communications.",
+      "heroBadge": "Built for Mobile Mechanics"
+    },
+    "mobile-pet-grooming": {
+      "slug": "mobile-pet-grooming",
+      "name": "Mobile Pet Grooming",
+      "displayName": "Mobile Pet Grooming Services",
+      "heroTitle": "Pamper more pets with mobile grooming software",
+      "heroSubtitle": "Complete mobile pet grooming software for scheduling, route optimization, pet profiles, and customer management.",
+      "heroBadge": "Built for Mobile Pet Groomers"
+    },
+    "mobile-auto-detailing": {
+      "slug": "mobile-auto-detailing",
+      "name": "Mobile Auto Detailing",
+      "displayName": "Mobile Auto Detailing Services",
+      "heroTitle": "Detail more vehicles with mobile software",
+      "heroSubtitle": "Mobile auto detailing software for scheduling, route optimization, service packages, and customer management.",
+      "heroBadge": "Built for Mobile Detailers"
+    }
+  },
+  "industry_feature_cards": [
+    {
+      "title": "Instant Lead Capture",
+      "description": "",
+      "content": "Embed a lead form on your website that feeds directly into Service Storm, so you never miss an opportunity.",
+      "stat": ""
+    },
+    {
+      "title": "Professional Quotes in Minutes",
+      "description": "",
+      "content": "Use your pre-built Price Book with services and materials to generate accurate quotes on the spot.",
+      "stat": ""
+    },
+    {
+      "title": "'Good, Better, Best' Options",
+      "description": "",
+      "content": "Increase quote acceptance by 39% by offering customers multiple options. Let them choose and digitally sign, turning a quote into a job in one click.",
+      "stat": ""
+    },
+    {
+      "title": "Drag-and-Drop Dispatching",
+      "description": "",
+      "content": "Visualize your whole day, week, or month. Easily assign jobs and adjust schedules on the fly.",
+      "stat": ""
+    },
+    {
+      "title": "Smart Technician Assignment",
+      "description": "",
+      "content": "Assign jobs based on category, skills, and qualifications. Ensure the right tech is sent to the right job, every time.",
+      "stat": ""
+    },
+    {
+      "title": "Instant Invoicing",
+      "description": "",
+      "content": "Generate and send professional invoices via text or email right from the job site.",
+      "stat": ""
+    },
+    {
+      "title": "Online & In-Person Payments",
+      "description": "",
+      "content": "Accept credit cards online or use Tap to Pay on your phone. Choose your processor (Storm Pay or Stripe) and even give customers the option to cover processing fees.",
+      "stat": ""
+    },
+    {
+      "title": "Automated Reminders",
+      "description": "",
+      "content": "Let the system follow up on overdue invoices for you, reducing payment times by up to 62%.",
+      "stat": ""
+    },
+    {
+      "title": "Automated Review Requests",
+      "description": "",
+      "content": "Automatically text satisfied customers a link to leave a review on Google, Facebook, or Yelp.",
+      "stat": ""
+    },
+    {
+      "title": "Build Customer Trust",
+      "description": "",
+      "content": "Real-time GPS tracking and automated notifications keep customers informed and confident throughout the service.",
+      "stat": ""
+    },
+    {
+      "title": "Landscape Job Management",
+      "description": "Organize your landscaping jobs efficiently",
+      "content": "Manage all your landscape projects in one place. Track job progress from initial consultation to final walkthrough, ensuring every detail is captured and nothing falls through the cracks.",
+      "stat": "Reduces administrative time by 65%"
+    },
+    {
+      "title": "Inventory & Materials",
+      "description": "Never run out of plants or supplies",
+      "content": "Track your plants, mulch, stone, and equipment inventory in real-time. Set automatic reorder points for seasonal materials and keep your crews supplied with everything they need.",
+      "stat": "Decreases supply shortages by 83%"
+    },
+    {
+      "title": "Weather Integration",
+      "description": "Stay ahead of weather disruptions",
+      "content": "Integrated weather forecasting helps you plan your schedule around rain and adverse conditions. Automatically notify clients of weather-related rescheduling to maintain clear communication.",
+      "stat": "Improves scheduling efficiency by 47%"
+    },
+    {
+      "title": "Irrigation Management",
+      "description": "Streamline irrigation service and installation",
+      "content": "Manage irrigation systems with specialized tools for design, installation, and maintenance. Track zones, components, and service history for each property to provide better service.",
+      "stat": "Increases irrigation service speed by 38%"
+    },
+    {
+      "title": "Seasonal Service Planning",
+      "description": "Optimize your year-round business",
+      "content": "Plan and schedule seasonal services like spring cleanups, fertilization, fall cleanup, and snow removal. Automatically remind clients when it's time for seasonal maintenance.",
+      "stat": "Boosts recurring service revenue by 52%"
+    },
+    {
+      "title": "Route Optimization",
+      "description": "Maximize crew efficiency with smart routing",
+      "content": "Optimize travel routes to minimize drive time between properties. Group nearby properties together and reduce fuel costs while serving more clients each day.",
+      "stat": "Reduces travel time by 34%"
+    },
+    {
+      "title": "Electrical Job Management",
+      "description": "Track installations, repairs, and maintenance",
+      "content": "Manage electrical projects from service calls to major installations. Track permit status, inspection schedules, and material requirements all in one centralized system.",
+      "stat": "Reduces project delays by 58%"
+    },
+    {
+      "title": "Parts & Inventory Tracking",
+      "description": "Never run out of critical components",
+      "content": "Track wire, fixtures, breakers, and electrical components. Monitor stock levels, set reorder alerts, and ensure your trucks are always stocked with what you need.",
+      "stat": "Decreases material shortages by 76%"
+    },
+    {
+      "title": "Permit & Inspection Management",
+      "description": "Stay on top of compliance requirements",
+      "content": "Track permit applications, inspection schedules, and compliance documentation. Get automatic reminders for upcoming inspections and permit renewals.",
+      "stat": "Improves compliance tracking by 92%"
+    },
+    {
+      "title": "Smart Scheduling & Dispatch",
+      "description": "Optimize your crew assignments",
+      "content": "Schedule emergency calls, routine maintenance, and project work efficiently. Dispatch the right electrician with the right skills and equipment for each job.",
+      "stat": "Increases daily job capacity by 45%"
+    },
+    {
+      "title": "Electrician Licensing Tracking",
+      "description": "Manage certifications and credentials",
+      "content": "Track electrician licenses, certifications, and continuing education requirements. Get alerts before licenses expire to ensure compliance.",
+      "stat": "Prevents compliance issues by 100%"
+    },
+    {
+      "title": "Customer Communication Hub",
+      "description": "Keep clients informed and satisfied",
+      "content": "Send automated appointment reminders, job updates, and follow-ups. Share photos of completed work and make it easy for customers to approve quotes and pay invoices.",
+      "stat": "Boosts customer satisfaction by 67%"
+    },
+    {
+      "title": "Plumbing Job Management",
+      "description": "Track service calls and installations",
+      "content": "Manage everything from emergency repairs to bathroom remodels. Track job status, materials used, and customer communications all in one place.",
+      "stat": "Reduces scheduling conflicts by 72%"
+    },
+    {
+      "title": "Parts & Inventory Control",
+      "description": "Keep your trucks fully stocked",
+      "content": "Track pipes, fixtures, fittings, and supplies across all vehicles and your warehouse. Set automatic reorder points and reduce trips back to the shop.",
+      "stat": "Decreases wasted time by 64%"
+    },
+    {
+      "title": "Emergency Dispatch System",
+      "description": "Respond to urgent calls instantly",
+      "content": "Route emergency plumbing calls to the nearest available plumber. Send job details, customer history, and site information directly to their mobile device.",
+      "stat": "Improves response time by 53%"
+    },
+    {
+      "title": "Permit & Code Compliance",
+      "description": "Stay compliant with regulations",
+      "content": "Track permit requirements for installations and major repairs. Maintain compliance documentation and get reminders for inspection schedules.",
+      "stat": "Ensures 100% permit compliance"
+    },
+    {
+      "title": "Plumber License Tracking",
+      "description": "Manage certifications and credentials",
+      "content": "Track master plumber licenses, journeyman credentials, and specialty certifications. Get alerts before licenses expire.",
+      "stat": "Prevents licensing issues completely"
+    },
+    {
+      "title": "Customer Communication",
+      "description": "Keep clients informed and happy",
+      "content": "Send automated appointment reminders, arrival notifications, and follow-ups. Make it easy for customers to approve estimates and pay invoices online.",
+      "stat": "Increases customer satisfaction by 78%"
+    },
+    {
+      "title": "HVAC Job Management",
+      "description": "Track service calls and installations",
+      "content": "Manage repairs, installations, and maintenance contracts. Track equipment service history, warranty information, and customer preferences in one system.",
+      "stat": "Reduces service time by 48%"
+    },
+    {
+      "title": "Parts & Equipment Inventory",
+      "description": "Stock the right parts for every job",
+      "content": "Track filters, refrigerant, compressors, and other HVAC parts across all service vehicles. Know what you have and what you need to reorder.",
+      "stat": "Reduces parts delays by 71%"
+    },
+    {
+      "title": "Smart Scheduling System",
+      "description": "Optimize technician routes and timing",
+      "content": "Schedule emergency repairs, routine maintenance, and installations efficiently. Route technicians based on skills, location, and equipment requirements.",
+      "stat": "Increases jobs per day by 42%"
+    },
+    {
+      "title": "Equipment History Tracking",
+      "description": "Complete service records for every unit",
+      "content": "Track make, model, serial numbers, and complete service history for every HVAC system you maintain. Know exactly what work was done and when.",
+      "stat": "Improves diagnostic speed by 63%"
+    },
+    {
+      "title": "Seasonal Demand Planning",
+      "description": "Prepare for busy heating and cooling seasons",
+      "content": "Forecast demand based on weather patterns and historical data. Schedule preventive maintenance during slow periods and optimize staffing for peak seasons.",
+      "stat": "Smooths seasonal revenue by 56%"
+    },
+    {
+      "title": "Project Management",
+      "description": "Organize every construction project",
+      "content": "Track multiple projects simultaneously with task lists, milestones, and deadlines. Keep all project documentation, communications, and changes in one place.",
+      "stat": "Reduces project delays by 61%"
+    },
+    {
+      "title": "Subcontractor Management",
+      "description": "Coordinate all your trades",
+      "content": "Manage relationships with subcontractors, track their work schedules, and coordinate multiple trades on the same project. Maintain insurance and licensing documentation.",
+      "stat": "Improves coordination by 73%"
+    },
+    {
+      "title": "Estimating & Proposals",
+      "description": "Create accurate bids quickly",
+      "content": "Build detailed construction estimates with material costs, labor, and subcontractor pricing. Present professional proposals that win more jobs.",
+      "stat": "Increases proposal accuracy by 84%"
+    },
+    {
+      "title": "Project Scheduling",
+      "description": "Keep projects on track",
+      "content": "Create detailed project timelines, coordinate subcontractor schedules, and track progress. Identify potential delays before they become problems.",
+      "stat": "Improves on-time completion by 68%"
+    },
+    {
+      "title": "Client Communication",
+      "description": "Keep clients informed and happy",
+      "content": "Share project updates, photos, and change orders with clients. Make it easy to get approvals and keep everyone on the same page.",
+      "stat": "Boosts client satisfaction by 79%"
+    },
+    {
+      "title": "Recurring Service Management",
+      "description": "Automate your maintenance plans",
+      "content": "Set up monthly, quarterly, or custom service intervals for each customer. Automatically schedule visits and bill recurring treatments without manual work.",
+      "stat": "Increases recurring revenue by 89%"
+    },
+    {
+      "title": "Treatment Tracking",
+      "description": "Document every service visit",
+      "content": "Record chemicals used, pests treated, and recommendations for each property. Maintain complete service history for compliance and customer questions.",
+      "stat": "Ensures 100% treatment documentation"
+    },
+    {
+      "title": "Chemical Inventory Management",
+      "description": "Track pesticides and materials",
+      "content": "Monitor chemical inventory levels, usage rates, and expiration dates. Ensure compliance with regulations and never run out of critical products.",
+      "stat": "Improves inventory accuracy by 94%"
+    },
+    {
+      "title": "Compliance & Documentation",
+      "description": "Stay compliant with regulations",
+      "content": "Maintain all required pesticide application records, safety data sheets, and licensing documentation. Generate compliance reports automatically.",
+      "stat": "Prevents compliance violations completely"
+    },
+    {
+      "title": "Recurring Cleaning Scheduling",
+      "description": "Automate your regular cleaning appointments",
+      "content": "Set up weekly, bi-weekly, or monthly cleaning schedules that repeat automatically. Manage one-time deep cleans and recurring maintenance in one system.",
+      "stat": "Reduces scheduling time by 81%"
+    },
+    {
+      "title": "Cleaning Team Management",
+      "description": "Coordinate your cleaning staff",
+      "content": "Assign teams to jobs based on skills and availability. Track who cleaned which properties and ensure consistent quality across all your teams.",
+      "stat": "Improves team utilization by 67%"
+    },
+    {
+      "title": "Customer Preferences Tracking",
+      "description": "Remember every client's details",
+      "content": "Track cleaning preferences, special instructions, key codes, and pet information for each home. Ensure every team delivers personalized service.",
+      "stat": "Increases customer satisfaction by 88%"
+    },
+    {
+      "title": "Supply Management",
+      "description": "Track cleaning supplies and equipment",
+      "content": "Monitor inventory of cleaning products, equipment, and supplies. Know when to reorder and ensure teams never run out of what they need.",
+      "stat": "Decreases supply shortages by 92%"
+    },
+    {
+      "title": "Facility Management",
+      "description": "Organize multi-location contracts",
+      "content": "Manage cleaning schedules across multiple facilities and locations. Track specific requirements, access procedures, and contact information for each site.",
+      "stat": "Improves facility organization by 86%"
+    },
+    {
+      "title": "Shift & Crew Scheduling",
+      "description": "Coordinate cleaning teams and shifts",
+      "content": "Schedule day porters, night crews, and specialized teams. Manage shift coverage, time-off requests, and ensure adequate staffing for every facility.",
+      "stat": "Reduces scheduling conflicts by 79%"
+    },
+    {
+      "title": "Quality Control Inspections",
+      "description": "Maintain cleaning standards",
+      "content": "Create inspection checklists, track quality metrics, and document issues. Ensure consistent service quality across all facilities and crews.",
+      "stat": "Increases quality scores by 64%"
+    },
+    {
+      "title": "Contract Management",
+      "description": "Track all your cleaning contracts",
+      "content": "Manage contract terms, service level agreements, and renewal dates. Track billable vs. completed services for accurate invoicing.",
+      "stat": "Improves contract compliance by 91%"
+    },
+    {
+      "title": "Supply & Equipment Tracking",
+      "description": "Manage supplies across facilities",
+      "content": "Track cleaning supplies, equipment, and inventory across all your facilities. Optimize ordering and reduce waste with usage analytics.",
+      "stat": "Decreases supply costs by 38%"
+    },
+    {
+      "title": "Client Communication Portal",
+      "description": "Professional client interactions",
+      "content": "Give facility managers visibility into cleaning schedules, inspection results, and service tickets. Streamline communication and build trust.",
+      "stat": "Boosts client satisfaction by 82%"
+    },
+    {
+      "title": "Work Order Management",
+      "description": "Track every maintenance request",
+      "content": "Manage work orders from creation to completion. Assign tasks, track status, and maintain complete records of all maintenance activities across properties.",
+      "stat": "Reduces response time by 68%"
+    },
+    {
+      "title": "Preventive Maintenance",
+      "description": "Automate scheduled inspections",
+      "content": "Set up recurring maintenance tasks like HVAC servicing, gutter cleaning, and seasonal inspections. Never miss scheduled maintenance that prevents costly repairs.",
+      "stat": "Prevents 84% of emergency repairs"
+    },
+    {
+      "title": "Vendor Coordination",
+      "description": "Manage contractors and vendors",
+      "content": "Coordinate with HVAC techs, plumbers, electricians, and other vendors. Track vendor performance, insurance, and licensing documentation.",
+      "stat": "Improves vendor response by 61%"
+    },
+    {
+      "title": "Property Documentation",
+      "description": "Maintain complete property records",
+      "content": "Store equipment manuals, warranty information, and maintenance history for each property. Access everything you need instantly.",
+      "stat": "Saves 12+ hours per week"
+    },
+    {
+      "title": "Tenant Communication",
+      "description": "Streamline resident requests",
+      "content": "Let tenants submit maintenance requests online with photos. Keep them informed of work order status and completion automatically.",
+      "stat": "Increases tenant satisfaction by 76%"
+    },
+    {
+      "title": "Installation Project Management",
+      "description": "Track security system installations",
+      "content": "Manage camera, alarm, and access control installations from quote to completion. Track equipment, wiring, and configuration for every system.",
+      "stat": "Reduces installation time by 42%"
+    },
+    {
+      "title": "System Documentation",
+      "description": "Maintain complete system records",
+      "content": "Store system diagrams, equipment lists, access codes, and configuration details for every installation. Access everything instantly for service calls.",
+      "stat": "Saves 15+ hours per week"
+    },
+    {
+      "title": "Service Call Management",
+      "description": "Handle repairs and inspections",
+      "content": "Schedule and dispatch technicians for service calls, annual inspections, and system upgrades. Track service history for warranty and compliance.",
+      "stat": "Improves response time by 56%"
+    },
+    {
+      "title": "Equipment & Inventory",
+      "description": "Track cameras, panels, and sensors",
+      "content": "Manage inventory of cameras, control panels, sensors, and accessories. Track which equipment is installed where and what's in stock.",
+      "stat": "Reduces inventory shortages by 81%"
+    },
+    {
+      "title": "Customer Portal",
+      "description": "Professional client access",
+      "content": "Give customers access to their system documentation, monitoring status, and service history. Allow easy scheduling of service calls and payments.",
+      "stat": "Boosts customer satisfaction by 74%"
+    },
+    {
+      "title": "GPS Route Optimization",
+      "description": "Minimize drive time between appointments",
+      "content": "Automatically route mobile mechanics to appointments efficiently. Reduce fuel costs and maximize repairs per day with intelligent routing.",
+      "stat": "Reduces drive time by 47%"
+    },
+    {
+      "title": "Digital Vehicle Inspections",
+      "description": "Conduct inspections on-site",
+      "content": "Perform multi-point inspections on customer vehicles and share results with photos. Create professional inspection reports that build trust.",
+      "stat": "Increases upsell revenue by 64%"
+    },
+    {
+      "title": "On-Site Appointment Scheduling",
+      "description": "Book repairs at customer locations",
+      "content": "Let customers book mobile repair appointments online. Schedule jobs based on mechanic location and route optimization.",
+      "stat": "Fills schedule 89% faster"
+    },
+    {
+      "title": "Real-Time Customer Updates",
+      "description": "Keep customers informed",
+      "content": "Send arrival notifications, repair updates, and completion confirmations automatically. Accept payments on-site with mobile processing.",
+      "stat": "Boosts customer satisfaction by 82%"
+    },
+    {
+      "title": "Pet Profile Management",
+      "description": "Remember every pet's details",
+      "content": "Track breed, temperament, grooming preferences, health issues, and special instructions for each pet. Deliver personalized service every time.",
+      "stat": "Improves service quality by 88%"
+    },
+    {
+      "title": "Appointment Scheduling",
+      "description": "Fill your grooming schedule",
+      "content": "Let customers book mobile grooming appointments online. Send automatic reminders and manage recurring grooming schedules.",
+      "stat": "Reduces no-shows by 73%"
+    },
+    {
+      "title": "Recurring Grooming Plans",
+      "description": "Build predictable revenue",
+      "content": "Set up recurring grooming schedules based on pet needs. Automate scheduling and billing for monthly or bi-monthly grooming appointments.",
+      "stat": "Increases recurring revenue by 92%"
+    },
+    {
+      "title": "Service Package Management",
+      "description": "Offer tiered detailing services",
+      "content": "Create and manage detailing packages from basic wash to premium details. Track which services each customer prefers.",
+      "stat": "Boosts upsells by 67%"
+    },
+    {
+      "title": "Recurring Detail Plans",
+      "description": "Build subscription revenue",
+      "content": "Set up monthly or quarterly detailing plans for customers who want regular service. Automate scheduling and billing.",
+      "stat": "Increases recurring revenue by 86%"
+    },
+    {
+      "title": "Product & Supply Tracking",
+      "description": "Manage detailing products",
+      "content": "Track cleaning products, waxes, and supplies on your mobile detailing van. Monitor usage and reorder automatically.",
+      "stat": "Decreases supply issues by 91%"
+    },
+    {
+      "title": "Before/After Documentation",
+      "description": "Showcase your work",
+      "content": "Capture before and after photos for every detail. Share results with customers and use them for marketing.",
+      "stat": "Increases referrals by 72%"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Service Storm helped us book 40% more jobs from the same ad spend. We were losing leads we didn't even know about.",
+      "author": "Mike R.",
+      "company": "Comfort Pro HVAC"
+    }
+  ],
+  "app_navigation": [
+    {
+      "section": "Work",
+      "items": [
+        {
+          "label": "Dashboard",
+          "url": "/dashboard"
+        },
+        {
+          "label": "Dispatch",
+          "url": "/dispatch"
+        },
+        {
+          "label": "Jobs",
+          "url": "/jobs"
+        },
+        {
+          "label": "My Workday",
+          "url": "/my-work"
+        },
+        {
+          "label": "Time Tracking",
+          "url": "/time-tracking"
+        },
+        {
+          "label": "Tasks",
+          "url": "/tasks"
+        }
+      ]
+    },
+    {
+      "section": "Sales",
+      "items": [
+        {
+          "label": "Customers",
+          "url": "/customers"
+        },
+        {
+          "label": "Quotes",
+          "url": "/quotes"
+        },
+        {
+          "label": "Invoices",
+          "url": "/invoices"
+        },
+        {
+          "label": "Sales Pipeline",
+          "url": "/lead-pipeline"
+        },
+        {
+          "label": "Lead Forms",
+          "url": "/lead-forms"
+        },
+        {
+          "label": "Campaigns",
+          "url": "/lead-campaigns"
+        }
+      ]
+    },
+    {
+      "section": "Service Plans",
+      "items": [
+        {
+          "label": "Active Plans",
+          "url": "/service-plans"
+        },
+        {
+          "label": "Plan Templates",
+          "url": "/service-plan-templates"
+        },
+        {
+          "label": "Signed Contracts",
+          "url": "/contracts?tab=signed"
+        },
+        {
+          "label": "Contract Templates",
+          "url": "/contracts"
+        }
+      ]
+    },
+    {
+      "section": "Team",
+      "items": [
+        {
+          "label": "Team Members",
+          "url": "/team"
+        },
+        {
+          "label": "Crews",
+          "url": "/crews"
+        },
+        {
+          "label": "Technicians",
+          "url": "/technicians"
+        },
+        {
+          "label": "Work Schedules",
+          "url": "/schedule-management"
+        }
+      ]
+    },
+    {
+      "section": "Payments",
+      "items": [
+        {
+          "label": "Storm Pay",
+          "url": "/storm-pay"
+        },
+        {
+          "label": "Accounting",
+          "url": "/integrations/accounting"
+        },
+        {
+          "label": "Revenue Report",
+          "url": "/reports/revenue"
+        },
+        {
+          "label": "Job Profitability",
+          "url": "/reports/job-profitability"
+        }
+      ]
+    },
+    {
+      "section": "Reviews",
+      "items": [
+        {
+          "label": "Reviews",
+          "url": "/reviews"
+        }
+      ]
+    }
+  ],
+  "marketing_nav": {
+    "industries": {
+      "Service Businesses": [
+        {
+          "href": "/electricians",
+          "label": "Electricians"
+        },
+        {
+          "href": "/plumbing",
+          "label": "Plumbing"
+        },
+        {
+          "href": "/hvac",
+          "label": "HVAC"
+        }
+      ],
+      "Maintenance Companies": [
+        {
+          "href": "/landscaping",
+          "label": "Landscaping"
+        },
+        {
+          "href": "/property-maintenance",
+          "label": "Property Maintenance"
+        },
+        {
+          "href": "/general-contractors",
+          "label": "General Contractors"
+        }
+      ],
+      "Cleaning Services": [
+        {
+          "href": "/home-cleaning",
+          "label": "Home Cleaning"
+        },
+        {
+          "href": "/commercial-cleaning",
+          "label": "Commercial Cleaning"
+        }
+      ],
+      "Mobile Services": [
+        {
+          "href": "/mobile-auto-repair",
+          "label": "Mobile Auto Repair"
+        },
+        {
+          "href": "/mobile-pet-grooming",
+          "label": "Mobile Pet Grooming"
+        },
+        {
+          "href": "/mobile-auto-detailing",
+          "label": "Mobile Auto Detailing"
+        }
+      ]
+    }
+  },
+  "images": {
+    "logo": "/logo.png",
+    "logo_svg": "/Service_Storm.svg",
+    "logo_trimmed": "/assets/Service-Stormtrimmed-fQUpr4m4.png",
+    "storm_eye": "/storm-eye.svg",
+    "og_image": "/ss_preview_image.png",
+    "twitter_image": "/ss_pink.png",
+    "app_screenshot_dispatch": "/assets/DispatchBoardClip-CLzptOnP.png",
+    "macbook_dispatch": "/assets/MacBookAirSSDispatch-tZtubAUL.png",
+    "landing_video_thumbnail": "/assets/LandingVideoThumbnail-T-5C6EWZ.png",
+    "mobile_app": "/service-storm-mobile-app.png",
+    "device_preview": "/Device-3.png",
+    "stormpay": "/images/stormpay.webp",
+    "stormpay_white": "/images/stormpay_white.webp",
+    "article_ad": "/assets/Article%20Ad-BXdpR16H.jpg",
+    "spring_kit_ad": "/assets/Spring%20Kit%20Ad-C3Hh3qzo.jpg",
+    "attic": "/assets/attic-CbIY7T_0.jpg",
+    "lawn_care": "/lawn-care.jpeg",
+    "lawn_mower": "/lawn-mower.jpeg",
+    "hvac_techs": "/hvac-techs.jpeg",
+    "low_voltage": "/low-voltage.jpeg",
+    "two_techs": "/two-smiling-techs.jpeg",
+    "landscaping": "/assets/man-restoring-backyard-garden-grass-turfs-2023-11-27-05-09-14-utc-C35y7vy_.jpeg",
+    "aes_badge": "/aes.webp",
+    "pci_badge": "/pci.webp",
+    "soc2_badge": "/soc2.webp",
+    "appstore": "/appstore.png",
+    "google_play": "/google-play.png",
+    "stripe_logo": "/stripe-logo.png"
+  },
+  "misc_copy": {
+    "lead_capture_audit": {
+      "title": "0 minutes \u2022 No pressure \u2022 Get a custom game plan",
+      "cta": "Book a Lead Capture Audit",
+      "testimonial": {
+        "quote": "Service Storm helped us book 40% more jobs from the same ad spend. We were losing leads we didn't even know about.",
+        "author": "Mike R.",
+        "company": "Comfort Pro HVAC"
+      },
+      "features": [
+        {
+          "icon": "\ud83d\udcde",
+          "title": "24/7 Lead Capture",
+          "description": "Never miss another call"
+        },
+        {
+          "icon": "\u26a1",
+          "title": "Instant Follow-Up",
+          "description": "Automated text & email"
+        },
+        {
+          "icon": "\ud83d\udcca",
+          "title": "Full-Funnel Tracking",
+          "description": "See where every lead goes"
+        }
+      ]
+    },
+    "mobile_app": "Service Storm puts powerful tools in your technicians' hands, enabling them to deliver exceptional service even in the most challenging environments.",
+    "about": "Service Storm is redefining the field service industry by putting powerful technology within reach of every local business. We believe service pros deserve enterprise-grade tools\u2014without the enterprise-sized price tag.",
+    "lifecycle": "Service Storm now handles the entire lifecycle of a dollar in your business. From website and marketing to operations and payments\u2014one platform, one partner."
+  }
+}

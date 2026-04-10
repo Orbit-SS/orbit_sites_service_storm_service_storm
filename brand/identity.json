@@ -1,0 +1,253 @@
+{
+  "brand": {
+    "name": "Service Storm",
+    "tagline": "Run Jobs. Get Paid.",
+    "domain": "servicestorm.io",
+    "logo": {
+      "svg": "/Service_Storm.svg",
+      "png": "/logo.png",
+      "trimmed": "/assets/Service-Stormtrimmed-fQUpr4m4.png",
+      "storm_eye": "/storm-eye.svg",
+      "pink_variant": "/ss_pink.png"
+    }
+  },
+  "colors": {
+    "css_variables": {
+      "light_mode": {
+        "--background": "hsl(0 0% 100%)",
+        "--foreground": "hsl(0 0% 3.9%)",
+        "--card": "hsl(0 0% 100%)",
+        "--card-foreground": "hsl(0 0% 3.9%)",
+        "--popover": "hsl(0 0% 100%)",
+        "--popover-foreground": "hsl(0 0% 3.9%)",
+        "--primary": "hsl(207 90% 54%)",
+        "--primary-foreground": "hsl(0 0% 98%)",
+        "--secondary": "hsl(340 82% 53%)",
+        "--secondary-foreground": "hsl(0 0% 98%)",
+        "--muted": "hsl(0 0% 96.1%)",
+        "--muted-foreground": "hsl(0 0% 45.1%)",
+        "--muted-dark": "hsl(0 0% 90%)",
+        "--muted-line": "hsl(0 0% 80%)",
+        "--accent": "hsl(0 0% 96.1%)",
+        "--accent-foreground": "hsl(0 0% 9%)",
+        "--destructive": "hsl(0 84.2% 60.2%)",
+        "--destructive-foreground": "hsl(0 0% 98%)",
+        "--border": "hsl(0 0% 93%)",
+        "--input": "hsl(0 0% 89.8%)",
+        "--ring": "hsl(0 0% 3.9%)",
+        "--radius": "0.5rem",
+        "--sidebar-background": "hsl(0 0% 98%)",
+        "--sidebar-foreground": "hsl(240 5.3% 26.1%)",
+        "--sidebar-primary": "hsl(240 5.9% 10%)",
+        "--sidebar-primary-foreground": "hsl(0 0% 98%)",
+        "--sidebar-accent": "hsl(240 4.8% 95.9%)",
+        "--sidebar-accent-foreground": "hsl(240 5.9% 10%)",
+        "--sidebar-border": "hsl(220 13% 91%)",
+        "--sidebar-ring": "hsl(217.2 91.2% 59.8%)",
+        "--chart-1": "hsl(12 76% 61%)",
+        "--chart-2": "hsl(173 58% 39%)",
+        "--chart-3": "hsl(197 37% 24%)",
+        "--chart-4": "hsl(43 74% 66%)",
+        "--chart-5": "hsl(27 87% 67%)"
+      },
+      "dark_mode": {
+        "--background": "hsl(0 0% 6%)",
+        "--foreground": "hsl(0 0% 100%)",
+        "--card": "hsl(0 0% 4%)",
+        "--card-foreground": "hsl(0 0% 100%)",
+        "--popover": "hsl(0 0% 3.9%)",
+        "--popover-foreground": "hsl(0 0% 98%)",
+        "--primary": "hsl(207 90% 54%)",
+        "--primary-foreground": "hsl(0 0% 98%)",
+        "--secondary": "hsl(340 82% 53%)",
+        "--secondary-foreground": "hsl(0 0% 98%)",
+        "--muted": "hsl(0 0% 14.9%)",
+        "--muted-foreground": "hsl(0 0% 63.9%)",
+        "--muted-dark": "hsl(0 0% 18%)",
+        "--muted-line": "hsl(0 0% 20%)",
+        "--accent": "hsl(0 0% 14.9%)",
+        "--accent-foreground": "hsl(0 0% 98%)",
+        "--destructive": "hsl(0 62.8% 30.6%)",
+        "--destructive-foreground": "hsl(0 0% 98%)",
+        "--border": "hsl(0 0% 14.9%)",
+        "--input": "hsl(0 0% 14.9%)",
+        "--ring": "hsl(0 0% 83.1%)",
+        "--sidebar-background": "hsl(240 5.9% 10%)",
+        "--sidebar-foreground": "hsl(240 4.8% 95.9%)",
+        "--sidebar-primary": "hsl(224.3 76.3% 48%)",
+        "--sidebar-primary-foreground": "hsl(0 0% 100%)",
+        "--sidebar-accent": "hsl(240 3.7% 15.9%)",
+        "--sidebar-accent-foreground": "hsl(240 4.8% 95.9%)",
+        "--sidebar-border": "hsl(240 3.7% 15.9%)",
+        "--sidebar-ring": "hsl(217.2 91.2% 59.8%)"
+      }
+    },
+    "resolved_hex": {
+      "primary": "#1a9ee2",
+      "primary_approx": "hsl(207, 90%, 54%) — bright blue (#1a9ee2)",
+      "secondary": "#e83373",
+      "secondary_approx": "hsl(340, 82%, 53%) — hot pink/magenta (#e83373)",
+      "background_light": "#ffffff",
+      "background_dark": "#0f0f0f",
+      "text_light": "#0a0a0a",
+      "text_dark": "#ffffff",
+      "muted_light": "#f5f5f5",
+      "border_light": "#ededed",
+      "destructive": "#ef4444"
+    },
+    "accent_colors": {
+      "emerald": "#10b981",
+      "green": "#22c55e",
+      "yellow": "#eab308",
+      "orange": "#f97316",
+      "red": "#ef4444",
+      "purple": "#a855f7",
+      "pink": "#ec4899",
+      "cyan": "#06b6d4",
+      "indigo": "#6366f1",
+      "blue": "#3b82f6",
+      "lime": "#84cc16"
+    },
+    "tailwind_accent_usage": {
+      "win_jobs_section": "bg-primary (blue)",
+      "operations_section": "bg-green-500",
+      "payments_section": "bg-emerald-500",
+      "reputation_section": "bg-yellow-500",
+      "landscaping": "lime-500/20 to green-500/20",
+      "electrical": "yellow-500/20 to amber-500/20",
+      "plumbing": "blue-500/20 to cyan-500/20",
+      "hvac": "cyan-500/20 to blue-500/20",
+      "pest_control": "red-500/20 to orange-500/20",
+      "cleaning": "purple-500/20 to pink-500/20",
+      "commercial_cleaning": "blue-500/20 to indigo-500/20",
+      "property_maintenance": "green-500/20 to emerald-500/20",
+      "security": "red-500/20 to orange-500/20",
+      "mobile_auto": "red-500/20 to orange-500/20"
+    }
+  },
+  "typography": {
+    "primary_font": "Inter",
+    "fallback_sans": "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif",
+    "mono_font": "Menlo, Consolas, Monaco, monospace",
+    "css_variable_sans": "var(--font-sans)",
+    "css_variable_mono": "var(--font-mono)",
+    "tailwind_base": "ui-sans-serif, system-ui, sans-serif",
+    "heading_weights": "700 (bold), 600 (semibold)",
+    "body_weights": "400 (normal), 500 (medium)",
+    "common_sizes": {
+      "hero_heading": "text-3xl md:text-4xl lg:text-5xl",
+      "section_heading": "text-3xl font-bold tracking-tight md:text-4xl",
+      "body": "text-lg text-muted-foreground",
+      "small": "text-sm"
+    }
+  },
+  "design_system": {
+    "framework": "Tailwind CSS v4",
+    "component_library": "shadcn/ui (Radix UI primitives)",
+    "animation": "Framer Motion",
+    "border_radius": "0.5rem (--radius)",
+    "design_principles": [
+      "Clean, minimal SaaS aesthetic",
+      "Blue primary with pink/magenta secondary accent",
+      "Card-based layout with subtle shadows",
+      "Dark mode support throughout",
+      "Rounded buttons with shadow hover effects",
+      "Gradient overlays for industry cards (20% opacity from/to pairs)"
+    ],
+    "button_styles": {
+      "primary": "rounded-full px-8 py-6 text-lg font-medium transition-all duration-300 hover:translate-y-[-2px] shadow-md hover:shadow-lg",
+      "default_radius": "rounded-full for CTAs, rounded for form buttons"
+    },
+    "layout": {
+      "max_width": "max-w-7xl",
+      "page_padding": "px-4 sm:px-7",
+      "section_spacing": "mt-20",
+      "card_spacing": "space-y-4"
+    }
+  },
+  "imagery": {
+    "style": "Professional field service photography, product screenshots, and device mockups",
+    "downloaded_images": {
+      "logo_svg": "brand/images/Service_Storm.svg",
+      "logo_png": "brand/images/logo.png",
+      "logo_trimmed": "brand/images/Service-Stormtrimmed-fQUpr4m4.png",
+      "storm_eye_svg": "brand/images/storm-eye.svg",
+      "og_image": "brand/images/ss_preview_image.png",
+      "twitter_pink": "brand/images/ss_pink.png",
+      "dispatch_board_clip": "brand/images/DispatchBoardClip-CLzptOnP.png",
+      "macbook_dispatch": "brand/images/MacBookAirSSDispatch-tZtubAUL.png",
+      "landing_video_thumbnail": "brand/images/LandingVideoThumbnail-T-5C6EWZ.png",
+      "mobile_app_screenshots": "brand/images/service-storm-mobile-app.png",
+      "device_mockup": "brand/images/Device-3.png",
+      "stormpay_color": "brand/images/stormpay.webp",
+      "stormpay_white": "brand/images/stormpay_white.webp",
+      "article_ad": "brand/images/Article%20Ad-BXdpR16H.jpg",
+      "spring_kit_ad": "brand/images/Spring%20Kit%20Ad-C3Hh3qzo.jpg",
+      "attic_photo": "brand/images/attic-CbIY7T_0.jpg",
+      "lawn_care_1": "brand/images/lawn-care.jpeg",
+      "lawn_mower": "brand/images/lawn-mower.jpeg",
+      "hvac_techs": "brand/images/hvac-techs.jpeg",
+      "low_voltage_electrician": "brand/images/low-voltage.jpeg",
+      "two_smiling_techs": "brand/images/two-smiling-techs.jpeg",
+      "landscaping_worker": "brand/images/man-restoring-backyard-garden-grass-turfs-2023-11-27-05-09-14-utc-C35y7vy_.jpeg",
+      "aes_certification": "brand/images/aes.webp",
+      "appstore_badge": "brand/images/appstore.png",
+      "google_play_badge": "brand/images/google-play.png"
+    }
+  },
+  "voice_and_tone": {
+    "personality": ["Direct", "Confident", "Trade-savvy", "No-nonsense", "Empowering"],
+    "target_audience": "Small to mid-size field service businesses (trades, cleaning, maintenance)",
+    "key_messages": [
+      "Run Jobs. Get Paid. — core tagline, action-oriented",
+      "Free to start, enterprise-grade tools",
+      "Built specifically for the trades (not generic software)",
+      "One platform for the entire business lifecycle",
+      "No credit card required to get started"
+    ],
+    "value_props": [
+      "All-in-one: leads → quotes → jobs → invoices → reviews",
+      "Free field service software",
+      "Mobile-first for crews in the field",
+      "Automated follow-ups reduce payment times by 62%",
+      "Good-Better-Best quoting increases acceptance by 39%",
+      "3x more positive reviews with automated requests"
+    ],
+    "industry_taglines": {
+      "landscaping": "Grow your landscaping business",
+      "electricians": "Power up your electrical business",
+      "plumbing": "Flow smoother with plumbing software",
+      "hvac": "Keep your HVAC business running smoothly",
+      "general-contractors": "Build your business on solid foundations",
+      "pest-control": "Eliminate inefficiency in your pest control business",
+      "home-cleaning": "Clean up your cleaning business operations",
+      "commercial-cleaning": "Professional software for commercial cleaning",
+      "property-maintenance": "Maintain more properties efficiently",
+      "security-systems": "Secure more business with better software",
+      "mobile-auto-repair": "Take your auto repair business on the road",
+      "mobile-pet-grooming": "Pamper more pets with mobile grooming software",
+      "mobile-auto-detailing": "Detail more vehicles with mobile software"
+    }
+  },
+  "tech_stack": {
+    "frontend": "React (Vite)",
+    "css": "Tailwind CSS v4",
+    "components": "shadcn/ui, Radix UI",
+    "animation": "Framer Motion",
+    "routing": "React Router",
+    "state": "Jotai",
+    "forms": "React Hook Form + Zod",
+    "icons": "Lucide React",
+    "maps": "Mapbox",
+    "payments": ["Storm Pay (proprietary)", "Stripe"],
+    "phone": "Twilio",
+    "analytics": "Google Analytics (G-3SPZQ5FRF9)",
+    "crm_tracking": "Apollo.io",
+    "app_store": ["Apple App Store", "Google Play Store"]
+  },
+  "trust_signals": {
+    "certifications": ["AES", "PCI Compliant", "SOC2"],
+    "payment_processors": ["Storm Pay", "Stripe"],
+    "integrations": ["Google Calendar", "Accounting software", "Twilio phone system"]
+  }
+}
